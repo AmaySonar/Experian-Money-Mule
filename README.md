@@ -80,17 +80,17 @@ HealthInsuranceStatus	        Binary flag indicating if the holder has health in
 
 3. Account Data   
 
-Column Name	                  Description   
-Identifier	                  Unique ID for the account   
-AccountLength	                Number of months the account has been active   
-AverageBalance	              Average balance maintained in the account   
-NumTransactions	              Total number of transactions since account opening   
-NumDeposits	                  Total number of deposits    
-NumWithdrawals	              Total number of withdrawals  
-NumTransfers	                Number of transfers to other accounts   
-NumLoans	                    Number of loans associated with this account   
-NumCreditCards	              Number of credit cards held   
-NumSavingsAccounts	          Number of savings accounts linked to this account   
+Column Name	      | Description   
+Identifier	      | Unique ID for the account   
+AccountLength	    | Number of months the account has been active   
+AverageBalance	  | Average balance maintained in the account   
+NumTransactions	  | Total number of transactions since account opening   
+NumDeposits	      | Total number of deposits    
+NumWithdrawals	  | Total number of withdrawals  
+NumTransfers	    | Number of transfers to other accounts   
+NumLoans	        | Number of loans associated with this account   
+NumCreditCards	  | Number of credit cards held   
+NumSavingsAccounts|	Number of savings accounts linked to this account   
 
 
 ⸻
