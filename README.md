@@ -96,15 +96,5 @@ NumSavingsAccounts|	Number of savings accounts linked to this account
 ⸻
 
 
-Project Structure 
-
-
-
-
-
-
-Results and Screen Shots 
-
-
 
 
